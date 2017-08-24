@@ -2,7 +2,7 @@ package com.oaksoft.algorithm.sudoku
 
 /*
  * Sudoku solver in Scala. 
- * input arg: numbers of the sudoku board on one line for example: 
+ * input arg: numbers of the sudoku board in one line for example: 
  * 1,3,5,2,9,7,8,6,4,9,8,2,4,1,6,7,5,3,7,6,4,3,8,5,1,9,2,2,1,8,7,3,9,6,4,5,5,9,7,8,6,4,2,3,1,6,4,3,1,5,2,9,7,8,4,2,6,5,7,1,3,8,9,3,5,9,6,2,8,4,1,7,8,7,1,9,4,3,5,2,6
  * the 1st 9 numbers will be the first row, the 2nd 9 numbers be the second row and so on ...
  * Output: true if the input sequence of numbers composes a valid Sudoku, false otherwise
