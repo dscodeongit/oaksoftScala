@@ -15,7 +15,7 @@
 		<mongo.driver.version>3.4.2</mongo.driver.version>
 		<xstream.version>1.4.9</xstream.version>
 		<commonslang.version>3.4</commonslang.version>
-		<log4j.version>2.8</log4j.version>
+		<log4j.version>2.16.0</log4j.version>
 		<jodatime.version>2.9.7</jodatime.version>
 		<javaee.version>7.0</javaee.version>
 		<guava.version>21.0</guava.version>
