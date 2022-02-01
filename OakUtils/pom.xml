@@ -13,7 +13,7 @@
 		<scala.version>2.11.8</scala.version>
 		<jackson.version>2.8.6</jackson.version>
 		<mongo.driver.version>3.4.2</mongo.driver.version>
-		<xstream.version>1.4.9</xstream.version>
+		<xstream.version>1.4.19</xstream.version>
 		<commonslang.version>3.4</commonslang.version>
 		<log4j.version>2.8</log4j.version>
 		<jodatime.version>2.9.7</jodatime.version>
